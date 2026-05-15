@@ -48,6 +48,20 @@ const data = {
       size: "50x70",
       price: "40$",
       img: "imgs/qbla.webp"
+    },
+     {
+      id: 9,
+      name: "فوضى البداية",
+      size: "40x60",
+      price: "40$",
+      img: "imgs/fauda.webp"
+    },
+     {
+      id: 10,
+      name: "هدوء الطبيعية",
+      size: "60x40",
+      price: "40$",
+      img: "imgs/calm.webp"
     }
   ],
   classic: [
