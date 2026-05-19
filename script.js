@@ -68,7 +68,7 @@ const data = {
       name: "ثبات الروح",
       size: "60x40",
       price: "70$",
-      img: "thbat-alroh.webp"
+      img: "imgs/thbat-alroh.webp"
     }
   ],
   classic: [
