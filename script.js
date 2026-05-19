@@ -62,6 +62,13 @@ const data = {
       size: "60x40",
       price: "40$",
       img: "imgs/calm.webp"
+    },
+    {
+      id: 11,
+      name: "ثبات الروح",
+      size: "60x40",
+      price: "70$",
+      img: "thbat-alroh.webp"
     }
   ],
   classic: [
